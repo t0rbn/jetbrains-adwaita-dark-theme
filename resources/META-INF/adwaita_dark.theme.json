@@ -1,0 +1,49 @@
+{
+  "name": "adwaita-dark",
+  "dark": true,
+  "author": "",
+  "editorScheme": "/META-INF/adwaita_dark.xml",
+  "colors": {
+    "backgroundDefault": "#353535",
+    "backgroundDarker": "#262626",
+    "foregroundDefault": "#c0c1c4",
+    "foregroundLighter": "#ffffff",
+    "foregroundDarker": "#7f7f7f",
+    "accent": "#15539E"
+
+  },
+  "ui": {
+    "*": {
+      "background": "backgroundDefault",
+      "foreground": "foregroundDefault",
+      "infoForeground": "accent",
+
+      "selectionBackground": "accent",
+      "selectionForeground": "foregroundLighter",
+      "selectionInactiveBackground": "accent",
+      "selectionInactiveForeground": "foregroundLighter",
+
+      "disabledBackground": "backgroundDarker",
+      "inactiveBackground": "backgroundDefault",
+      "inactiveForeground": "foregroundDefault",
+
+      "disabledForeground": "foregroundDarker",
+      "disabledText": "foregroundDarker",
+
+      "acceleratorForeground": "#E6E6E6",
+      "acceleratorSelectionForeground": "#E6E6E6",
+
+      "errorForeground": "#FA3232",
+
+      "borderColor": "backgroundDefault",
+      "disabledBorderColor": "#AA6E28",
+      "focusColor": "accent",
+      "focusedBorderColor": "accent",
+      "hoverBorderColor": "accent",
+      "pressedBorderColor": "accent",
+
+      "separatorColor": "backgroundDarker",
+      "lineSeparatorColor": "#backgroundDarker"
+    }
+  }
+}
