@@ -4,8 +4,8 @@
   "author": "",
   "editorScheme": "/META-INF/adwaita_dark.xml",
   "colors": {
-    "backgroundDefault": "#353535",
-    "backgroundDarker": "#262626",
+    "backgroundDefault": "#323232",
+    "backgroundDarker": "#2D2D2D",
     "foregroundDefault": "#c0c1c4",
     "foregroundLighter": "#ffffff",
     "foregroundDarker": "#7f7f7f",
