@@ -9,14 +9,13 @@
     "foregroundDefault": "#c0c1c4",
     "foregroundLighter": "#ffffff",
     "foregroundDarker": "#7f7f7f",
-    "accent": "#15539E",
-    "accentSecondary": "#E9AD0C"
+    "accent": "#15539E"
   },
   "ui": {
     "*": {
       "background": "backgroundDefault",
       "foreground": "foregroundDefault",
-      "infoForeground": "accentSecondary",
+      "infoForeground": "foregroundDefault",
 
       "selectionBackground": "accent",
       "selectionForeground": "foregroundLighter",
@@ -39,8 +38,8 @@
       "disabledBorderColor": "#AA6E28",
       "focusColor": "accent",
       "focusedBorderColor": "accent",
-      "hoverBorderColor": "accentSecondary",
-      "pressedBorderColor": "accentSecondary",
+      "hoverBorderColor": "accent",
+      "pressedBorderColor": "accent",
 
       "separatorColor": "backgroundDarker",
       "lineSeparatorColor": "#backgroundDarker"
