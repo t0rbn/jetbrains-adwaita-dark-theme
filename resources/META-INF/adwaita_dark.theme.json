@@ -4,12 +4,15 @@
   "author": "t0rbn",
   "editorScheme": "/META-INF/adwaita_dark.xml",
   "colors": {
-    "backgroundDefault": "#323232",
-    "backgroundDarker": "#2D2D2D",
-    "foregroundDefault": "#c0c1c4",
+    "backgroundDefault": "#242424",
+    "backgroundElevation": "#363636",
+    "backgroundElevationDouble": "#4A4A4A",
+
+    "foregroundDefault": "#D0D0D0",
     "foregroundLighter": "#ffffff",
-    "foregroundDarker": "#7f7f7f",
-    "accent": "#15539E"
+
+    "borderDefault": "#454545",
+    "accent": "#3584E4"
   },
   "ui": {
     "*": {
@@ -17,29 +20,29 @@
       "foreground": "foregroundDefault",
       "infoForeground": "foregroundDefault",
 
-      "selectionBackground": "accent",
-      "selectionForeground": "foregroundLighter",
-      "selectionInactiveBackground": "accent",
+      "selectionBackground": "backgroundElevation",
+      "selectionForeground": "foregroundDefault",
+      "selectionInactiveBackground": "backgroundDefault",
       "selectionInactiveForeground": "foregroundLighter",
 
       "disabledBackground": "backgroundDarker",
       "inactiveBackground": "backgroundDefault",
       "inactiveForeground": "foregroundDefault",
 
-      "disabledForeground": "foregroundDarker",
-      "disabledText": "foregroundDarker",
+      "disabledForeground": "borderDefault",
+      "disabledText": "borderDefault",
 
-      "acceleratorForeground": "#E6E6E6",
-      "acceleratorSelectionForeground": "#E6E6E6",
+      "acceleratorForeground": "#foregroundLighter",
+      "acceleratorSelectionForeground": "#foregroundLighter",
 
-      "errorForeground": "#C01C28",
+      "errorForeground": "#F66151",
 
-      "borderColor": "backgroundDefault",
-      "disabledBorderColor": "#AA6E28",
+      "borderColor": "borderDefault",
+      "disabledBorderColor": "#borderDefault",
       "focusColor": "accent",
-      "focusedBorderColor": "accent",
-      "hoverBorderColor": "accent",
-      "pressedBorderColor": "accent",
+      "focusedBorderColor": "borderDefault",
+      "hoverBorderColor": "borderDefault",
+      "pressedBorderColor": "borderDefault",
 
       "separatorColor": "backgroundDarker",
       "lineSeparatorColor": "#backgroundDarker"

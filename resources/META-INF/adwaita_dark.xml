@@ -18,11 +18,11 @@
         <option name="ANNOTATIONS_COLOR" value="fffbf7" />
         <option name="CARET_COLOR" value="ffcc00" />
         <option name="CARET_ROW_COLOR" value="181818" />
-        <option name="CONSOLE_BACKGROUND_KEY" value="1E1E1E" />
+        <option name="CONSOLE_BACKGROUND_KEY" value="242424" />
         <option name="DELETED_LINES_COLOR" value="f07178" />
         <option name="DIFF_SEPARATORS_BACKGROUND" value="1e2a30" />
         <option name="DIFF_SEPARATORS_TOP_BORDER" value="171717" />
-        <option name="DOCUMENTATION_COLOR" value="1E1E1E" />
+        <option name="DOCUMENTATION_COLOR" value="242424" />
         <option name="FILESTATUS_ADDED" value="c3e88d" />
         <option name="FILESTATUS_COPIED" value="c3e88d" />
         <option name="FILESTATUS_DELETED" value="808080" />
@@ -44,9 +44,9 @@
         <option name="FILESTATUS_UNKNOWN" value="f77669" />
         <option name="FILESTATUS_addedOutside" value="c3e88d" />
         <option name="FILESTATUS_modifiedOutside" value="82aaff" />
-        <option name="GUTTER_BACKGROUND" value="1E1E1E" />
+        <option name="GUTTER_BACKGROUND" value="242424" />
         <option name="INDENT_GUIDE" value="424242" />
-        <option name="INFORMATION_HINT" value="1E1E1E" />
+        <option name="INFORMATION_HINT" value="242424" />
         <option name="LINE_NUMBERS_COLOR" value="747474" />
         <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="616161" />
         <option name="METHOD_SEPARATORS_COLOR" value="424242" />
@@ -55,7 +55,7 @@
         <option name="MT_SUPPRESSED" value="eeffff" />
         <option name="NOTIFICATION_BACKGROUND" value="3d1a11" />
         <option name="NOT_CHANGED" value="616161" />
-        <option name="QUESTION_HINT" value="1E1E1E" />
+        <option name="QUESTION_HINT" value="242424" />
         <option name="RECENT_LOCATIONS_SELECTION" value="1a1a1a" />
         <option name="RIGHT_MARGIN_COLOR" value="424242" />
         <option name="SELECTED_INDENT_GUIDE" value="ff9800" />
@@ -66,31 +66,31 @@
         <option name="SOFT_WRAP_SIGN_COLOR" value="424242" />
         <option name="ScrollBar.Mac.Transparent.hoverThumbBorderColor" value="ff9800c0" />
         <option name="ScrollBar.Mac.Transparent.hoverThumbColor" value="ff9800c0" />
-        <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="1E1E1E" />
+        <option name="ScrollBar.Mac.Transparent.hoverTrackColor" value="242424" />
         <option name="ScrollBar.Mac.Transparent.thumbBorderColor" value="ff980080" />
         <option name="ScrollBar.Mac.Transparent.thumbColor" value="ff980080" />
-        <option name="ScrollBar.Mac.Transparent.trackColor" value="1E1E1E" />
+        <option name="ScrollBar.Mac.Transparent.trackColor" value="242424" />
         <option name="ScrollBar.Mac.hoverThumbBorderColor" value="ff9800" />
         <option name="ScrollBar.Mac.hoverThumbColor" value="ff9800" />
-        <option name="ScrollBar.Mac.hoverTrackColor" value="1E1E1E" />
+        <option name="ScrollBar.Mac.hoverTrackColor" value="242424" />
         <option name="ScrollBar.Mac.thumbBorderColor" value="ff9800c0" />
         <option name="ScrollBar.Mac.thumbColor" value="ff9800c0" />
-        <option name="ScrollBar.Mac.trackColor" value="1E1E1E" />
+        <option name="ScrollBar.Mac.trackColor" value="242424" />
         <option name="ScrollBar.Transparent.hoverThumbBorderColor" value="ff9800c0" />
         <option name="ScrollBar.Transparent.hoverThumbColor" value="ff9800c0" />
-        <option name="ScrollBar.Transparent.hoverTrackColor" value="1E1E1E" />
+        <option name="ScrollBar.Transparent.hoverTrackColor" value="242424" />
         <option name="ScrollBar.Transparent.thumbBorderColor" value="ff980080" />
         <option name="ScrollBar.Transparent.thumbColor" value="ff980080" />
-        <option name="ScrollBar.Transparent.trackColor" value="1E1E1E" />
+        <option name="ScrollBar.Transparent.trackColor" value="242424" />
         <option name="ScrollBar.hoverThumbBorderColor" value="ff9800" />
         <option name="ScrollBar.hoverThumbColor" value="ff9800" />
-        <option name="ScrollBar.hoverTrackColor" value="1E1E1E" />
+        <option name="ScrollBar.hoverTrackColor" value="242424" />
         <option name="ScrollBar.thumbBorderColor" value="ff9800c0" />
         <option name="ScrollBar.thumbColor" value="ff9800c0" />
-        <option name="ScrollBar.trackColor" value="1E1E1E" />
+        <option name="ScrollBar.trackColor" value="242424" />
         <option name="TEARLINE_COLOR" value="424242" />
         <option name="TOOLTIP" value="323232" />
-        <option name="VCS_ANNOTATIONS_COLOR_1" value="1E1E1E" />
+        <option name="VCS_ANNOTATIONS_COLOR_1" value="242424" />
         <option name="VCS_ANNOTATIONS_COLOR_2" value="424242" />
         <option name="VCS_ANNOTATIONS_COLOR_3" value="616161" />
         <option name="VCS_ANNOTATIONS_COLOR_4" value="5a4036" />
@@ -173,7 +173,7 @@
         <option name="BREADCRUMBS_DEFAULT">
             <value>
                 <option name="FOREGROUND" value="616161" />
-                <option name="BACKGROUND" value="1E1E1E" />
+                <option name="BACKGROUND" value="242424" />
             </value>
         </option>
         <option name="BREADCRUMBS_HOVERED">
@@ -185,7 +185,7 @@
         <option name="BREADCRUMBS_INACTIVE">
             <value>
                 <option name="FOREGROUND" value="616161" />
-                <option name="BACKGROUND" value="1E1E1E" />
+                <option name="BACKGROUND" value="242424" />
             </value>
         </option>
         <option name="BREAKPOINT_ATTRIBUTES">
@@ -723,7 +723,7 @@
         <option name="HAML_WS_REMOVAL">
             <value>
                 <option name="FOREGROUND" value="eeffff" />
-                <option name="BACKGROUND" value="1E1E1E" />
+                <option name="BACKGROUND" value="242424" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
@@ -2734,7 +2734,7 @@
         <option name="TEXT">
             <value>
                 <option name="FOREGROUND" value="eeffff" />
-                <option name="BACKGROUND" value="1E1E1E" />
+                <option name="BACKGROUND" value="242424" />
                 <option name="EFFECT_TYPE" value="5" />
             </value>
         </option>
