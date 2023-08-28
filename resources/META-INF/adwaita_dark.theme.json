@@ -25,27 +25,27 @@
       "selectionInactiveBackground": "backgroundDefault",
       "selectionInactiveForeground": "foregroundLighter",
 
-      "disabledBackground": "backgroundDarker",
+      "disabledBackground": "backgroundElevation",
       "inactiveBackground": "backgroundDefault",
       "inactiveForeground": "foregroundDefault",
 
       "disabledForeground": "borderDefault",
       "disabledText": "borderDefault",
 
-      "acceleratorForeground": "#foregroundLighter",
-      "acceleratorSelectionForeground": "#foregroundLighter",
+      "acceleratorForeground": "foregroundLighter",
+      "acceleratorSelectionForeground": "foregroundLighter",
 
       "errorForeground": "#F66151",
 
       "borderColor": "borderDefault",
-      "disabledBorderColor": "#borderDefault",
+      "disabledBorderColor": "borderDefault",
       "focusColor": "accent",
       "focusedBorderColor": "borderDefault",
       "hoverBorderColor": "borderDefault",
       "pressedBorderColor": "borderDefault",
 
-      "separatorColor": "backgroundDarker",
-      "lineSeparatorColor": "#backgroundDarker"
+      "separatorColor": "backgroundElevation",
+      "lineSeparatorColor": "backgroundElevation"
     }
   }
 }

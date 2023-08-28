@@ -8,7 +8,7 @@
         <property name="originalScheme">materia theme</property>
     </metaInfo>
     <option name="LINE_SPACING" value="1.4" />
-    <option name="EDITOR_FONT_SIZE" value="14" />
+    <option name="EDITOR_FONT_SIZE" value="15" />
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
     <option name="EDITOR_LIGATURES" value="true" />
     <option name="CONSOLE_FONT_NAME" value="Source Code Pro" />
