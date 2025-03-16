@@ -4,11 +4,11 @@
   "author": "t0rbn",
   "editorScheme": "/META-INF/adwaita_dark.xml",
   "colors": {
-    "backgroundDefault": "#303030",
-    "backgroundElevation": "#2a2a2a",
-    "backgroundElevationDouble": "#3f3f3f",
+    "backgroundDefault": "#222226",
+    "backgroundElevation": "#2E2E32",
+    "backgroundElevationDouble": "#28282C",
 
-    "foregroundDefault": "#D0D0D0",
+    "foregroundDefault": "#f6f5f4",
     "foregroundLighter": "#ffffff",
 
     "borderDefault": "#454545",
@@ -35,7 +35,7 @@
       "acceleratorForeground": "foregroundLighter",
       "acceleratorSelectionForeground": "foregroundLighter",
 
-      "errorForeground": "#F66151",
+      "errorForeground": "#f66151",
 
       "borderColor": "borderDefault",
       "disabledBorderColor": "borderDefault",
