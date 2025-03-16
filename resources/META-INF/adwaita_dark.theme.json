@@ -4,8 +4,8 @@
   "author": "t0rbn",
   "editorScheme": "/META-INF/adwaita_dark.xml",
   "colors": {
-    "backgroundDefault": "#222226",
-    "backgroundElevation": "#2E2E32",
+    "backgroundDefault": "#2E2E32",
+    "backgroundElevation": "#28282C",
     "backgroundElevationDouble": "#28282C",
 
     "foregroundDefault": "#f6f5f4",
