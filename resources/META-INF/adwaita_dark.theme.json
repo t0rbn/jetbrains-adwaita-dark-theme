@@ -8,10 +8,10 @@
     "backgroundElevation": "#28282C",
     "backgroundElevationDouble": "#28282C",
 
-    "foregroundDefault": "#f6f5f4",
+    "foregroundDefault": "#deddda",
     "foregroundLighter": "#ffffff",
 
-    "borderDefault": "#454545",
+    "borderDefault": "#241f31",
     "accent": "#3584E4"
   },
   "ui": {
@@ -19,6 +19,7 @@
       "background": "backgroundDefault",
       "foreground": "foregroundDefault",
       "infoForeground": "foregroundDefault",
+
 
       "selectionBackground": "backgroundElevationDouble",
       "selectionForeground": "foregroundLighter",
